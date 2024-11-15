@@ -8,3 +8,7 @@ This is a simple program that returns quotes related to programming
 quoty
 When I wrote this code, only God and I understood what I did. Now only God knows. - Anon
 ```
+
+## Inspiration
+
+I really liked the quotes that show up on my desktop when I open `Hyprland`
