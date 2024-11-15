@@ -7,7 +7,6 @@
   - [Inspiration](#inspiration)
   - [Future changes](#future-changes)
   - [Buy me a coffee](#buy-me-a-coffee)
-  - [Links](#links)
   <!--toc:end-->
 
 This is a simple program that returns quotes related to programming
@@ -57,7 +56,5 @@ NdWojNSyy2Qr7CbVH1HCsgNnR31A5qDtoo
 # ETH, BNB and other ERC tokens
 0xc48dBdB37a5359c69A01671D45B14fe4Fcf69086
 ```
-
-## Links
 
 [kofi]: https://ko-fi.com/mxaddict
