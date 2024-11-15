@@ -2,11 +2,13 @@ use rand::Rng;
 
 const QUOTES: &[(&str, &str)] = &[
     ("Anon (16th century)", "Fuck You!"),
+    ("Anon", "Compile, wait for 20 minutes, notice a new commit, compile again."),
     ("Anon", "It's not easy, but it'll be easy."),
     ("Anon", "Pay will be in on monday."),
     ("Anon", "Programmer: A machine that turns coffee into code."),
     ("Anon", "Trust me bro."),
     ("Anon", "When I wrote this code, only God and I understood what I did. Now only God knows."),
+    ("Anon", "This text is random."),
 
     ("Alan Cooper", "If we want users to like our software, we should design it to behave like a likable person."),
     ("Alan Turing", "Sometimes it is the people no one imagines anything of, who do the things that no one can imagine."),
@@ -29,6 +31,9 @@ const QUOTES: &[(&str, &str)] = &[
     ("Samuel Redwine", "Software and cathedrals are much the same, first we build them, then we pray."),
     ("Steve Jobs", "Everybody should learn to program a computer because it teaches you how to think."),
     ("Steve Jobs", "Innovation distinguishes between a leader and a follower."),
+    ("Vaxry", "'why no work', bro I haven't hacked your pc to get live feeds yet"),
+    ("Vaxry", "Hello everyone this is YOUR daily dose of 'read the wiki'"),
+    ("Vaxry", "I commit too often, people can't catch up lmao"),
     ("Yegor Bugayenk", "Quality is a product of a conflict between programmers and testers."),
 ];
 
