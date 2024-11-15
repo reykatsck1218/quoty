@@ -2,6 +2,13 @@
 name = "quoty"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+license-file = "LICENSE"
+description = "Simple CLI program that returns a programming quote"
+homepage = "https://kryptic.sh/quoty"
+repository = "https://github.com/mxaddict/quoty"
+readme = "README.md"
+categories = ["command-line-utilities"]
 
 [dependencies]
 rand = "0.8.5"
